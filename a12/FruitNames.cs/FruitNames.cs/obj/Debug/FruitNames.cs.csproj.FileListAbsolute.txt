@@ -1,0 +1,9 @@
+F:\wctc\intro_to_programming\a12\FruitNames.cs\FruitNames.cs\bin\Debug\FruitNames.cs.exe.config
+F:\wctc\intro_to_programming\a12\FruitNames.cs\FruitNames.cs\obj\Debug\FruitNames.cs.csprojResolveAssemblyReference.cache
+F:\wctc\intro_to_programming\a12\FruitNames.cs\FruitNames.cs\bin\Debug\FruitNames.cs.exe
+F:\wctc\intro_to_programming\a12\FruitNames.cs\FruitNames.cs\bin\Debug\FruitNames.cs.pdb
+F:\wctc\intro_to_programming\a12\FruitNames.cs\FruitNames.cs\obj\Debug\FruitNames.cs.exe
+F:\wctc\intro_to_programming\a12\FruitNames.cs\FruitNames.cs\obj\Debug\FruitNames.cs.pdb
+G:\wctc\intro_to_programming\a12\FruitNames.cs\FruitNames.cs\bin\Debug\FruitNames.cs.exe.config
+G:\wctc\intro_to_programming\a12\FruitNames.cs\FruitNames.cs\obj\Debug\FruitNames.cs.exe
+G:\wctc\intro_to_programming\a12\FruitNames.cs\FruitNames.cs\obj\Debug\FruitNames.cs.pdb
